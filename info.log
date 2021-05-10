@@ -1,0 +1,13 @@
+2021-05-10 12:40:59,071 - model - INFO - Start logging!
+2021-05-10 12:40:59,785 - view - INFO - Start logging!
+2021-05-10 12:41:00,187 - view - INFO - Created Menu
+2021-05-10 12:41:12,608 - model - INFO - Add vocable "gehen" and vocable "walk" to "German" and "English" table!
+2021-05-10 12:41:28,704 - model - INFO - File open!
+2021-05-10 12:41:28,705 - model - INFO - No vocables, for writting to file, found in database!
+2021-05-10 12:41:28,705 - model - INFO - File closed!
+2021-05-10 12:42:58,233 - model - INFO - Start logging!
+2021-05-10 12:42:58,635 - view - INFO - Start logging!
+2021-05-10 12:42:58,673 - view - INFO - Created Menu
+2021-05-10 12:43:14,624 - model - INFO - Add vocable "gehen" and vocable "walk" to "German" and "English" table!
+2021-05-10 12:43:21,099 - model - INFO - File open!
+2021-05-10 12:43:21,101 - model - INFO - File closed!
